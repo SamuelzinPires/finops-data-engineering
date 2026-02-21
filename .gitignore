@@ -1,0 +1,17 @@
+# Segurança e Variáveis de Ambiente
+.env
+
+# Pastas do Python e Ambiente Virtual (Crucial)
+__pycache__/
+venv/
+.venv/
+env/
+
+# Dados Pessoais e Banco de Dados
+data/raw/
+data/processed/
+*.db
+*.sqlite3
+
+# Arquivos de Log
+logs/
